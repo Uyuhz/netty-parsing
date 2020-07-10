@@ -6,9 +6,9 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @ComponentScan("fun.uyuhz")
-public class NettyParssingApplication {
+public class NettyParsingApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(NettyParssingApplication.class, args);
+        SpringApplication.run(NettyParsingApplication.class, args);
     }
 }
